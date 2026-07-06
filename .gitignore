@@ -1,5 +1,10 @@
 .venv/
-data/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# コンペ配布データ（Signate規約により再配布不可のため公開しない）
+data/
+
+# 論文PDF（著作権のため公開しない）
+literature/
